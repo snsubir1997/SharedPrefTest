@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SharedPreferences</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="pin">Pin</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="enter_pin">Enter Pin</string>
+    <string name="enter_username">Enter Username</string>
+    <string name="submit_details">Submit Details</string>
+</resources>
